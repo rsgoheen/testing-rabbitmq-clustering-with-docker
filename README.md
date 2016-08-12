@@ -11,7 +11,7 @@ This cluster supports clients using:
  - MQTT SSL on Port 8883 (Port is exposed, but no SSL cert is included)
 
 Once the steps are completed here is what your local environment will look like:
-![Environment Overview](http://levvel.io/wp-content/uploads/2015/11/RabbitMQ-Clustering-on-Docker-for-use-with-AMQP-and-MQTT.png)
+![Environment Overview](http://cdn.levvel.io/blog_content/RabbitMQ-Clustering-on-Docker-for-use-with-AMQP-and-MQTT.png)
 
 ### Overview
 -----------
